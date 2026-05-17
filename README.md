@@ -10,4 +10,5 @@ Este projeto consiste em processar imagens no formato PPM através de várias op
 
 
 
-Para testar, deve escolher correr o programa referente à operação pretendida com redirecionamento da imagem para o output: programa.c > imagem.ppm
+Para testar, deve escolher correr o programa referente à operação pretendida com redirecionamento da imagem para o output: 
+./nome_da_operacao.c < nome_da_imagem.ppm > output.ppm
